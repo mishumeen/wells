@@ -24,7 +24,7 @@
         "type": "business",
         "value": "Business one"
       },
-      "positionName": "HLT ",
+      "positionName": "HLT",
       "children": [
         {
           "name": " Leverling Janet",
@@ -39,7 +39,7 @@
             "value": " Finance Department",
             "desc": "Finance Dept description"
           },
-          "positionName": "Capital Market "
+          "positionName": "Capital\nMarket"
         },
         {
           "name": "Fuller Andrew",
@@ -69,7 +69,7 @@
             "value": "HR Department",
             "desc": "HR Department Description"
           },
-          "positionName": "Lending Grid"
+          "positionName": "Lending\nGrid"
         },
         {
           "name": "Buchanan Steven",
@@ -114,7 +114,7 @@
             "value": "Customer Service",
             "desc": "Customer Service Department Description"
           },
-          "positionName": "Sales Management"
+          "positionName": "Sales\nManagement"
         }
       ]
     },
