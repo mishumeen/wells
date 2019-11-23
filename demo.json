@@ -39,7 +39,7 @@
             "value": " Finance Department",
             "desc": "Finance Dept description"
           },
-          "positionName": "Capital\nMarket"
+          "positionName": "Capital Market"
         },
         {
           "name": "Fuller Andrew",
@@ -69,7 +69,7 @@
             "value": "HR Department",
             "desc": "HR Department Description"
           },
-          "positionName": "Lending\nGrid"
+          "positionName": "Lending Grid"
         },
         {
           "name": "Buchanan Steven",
@@ -114,7 +114,7 @@
             "value": "Customer Service",
             "desc": "Customer Service Department Description"
           },
-          "positionName": "Sales\nManagement"
+          "positionName": "Sales Management"
         }
       ]
     },
